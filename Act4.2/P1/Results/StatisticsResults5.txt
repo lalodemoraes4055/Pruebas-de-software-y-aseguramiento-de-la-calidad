@@ -1,0 +1,7 @@
+Count: 307
+Mean: 241.49511400651465
+Median: 241.0
+Mode: 393.0
+Standard Deviation: 145.46484786056646
+Variance: 21160.021963097748
+Time elapsed: 0.007000 seconds
