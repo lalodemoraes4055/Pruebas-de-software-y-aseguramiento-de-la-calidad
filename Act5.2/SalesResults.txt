@@ -1,0 +1,12 @@
+Processing: TC1.Sales.json
+Total Sales Cost: 2481.86
+Execution Time: 0.0000 seconds
+------------------------------
+Processing: TC2.Sales.json
+Total Sales Cost: 166568.23
+Execution Time: 0.0010 seconds
+------------------------------
+Processing: TC3.Sales.json
+Total Sales Cost: 165235.37
+Execution Time: 0.0020 seconds
+------------------------------
